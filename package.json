@@ -1,6 +1,13 @@
 {
   "name": "minicolor",
-  "version": "0.0.1",
-  "dependencies": {
+  "description": "simple command-line color util",
+  "version": "0.0.2",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/espr/minicolor.git"
+  },
+  "engines": {
+    "node": "*"
   }
 }
